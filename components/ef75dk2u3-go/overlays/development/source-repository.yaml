@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ef75dk2u3-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ef75dk2u3-go
